@@ -1,4 +1,4 @@
-katz_deli = ["Cha", "Ricardo"]
+katz_deli = []
 
 
 
